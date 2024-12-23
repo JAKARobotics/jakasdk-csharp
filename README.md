@@ -27,7 +27,7 @@ using jkType;
 
 ## Feedback
 
-Our Software Development Kit is still in its early and we are open to any improvements. Please also let us know of any new features you need that the sdk currently does not support.
+Our Software Development Kit is still in its early stages and we are open to any improvements. Please also let us know of any new features you need that the sdk currently does not support.
 
 
 ## FAQ
