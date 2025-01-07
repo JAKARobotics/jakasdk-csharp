@@ -44,5 +44,5 @@ Please let us know in the [wishlist](https://github.com/JAKARobotics/jakasdk-csh
 
 ## License
 
-[GNU AGPLv3 ](https://choosealicense.com/licenses/agpl-3.0/)
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
 
